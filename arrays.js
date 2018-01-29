@@ -37,7 +37,10 @@ function destructivelyRemoveElementFromEndOfArray(array){
   array.pop();
   return array
 }
+<<<<<<< HEAD
 
 function removeElementFromEndOfArray(array){
   return array.slice(0,array.length-1);
 }
+=======
+>>>>>>> 60df2f90556a143a06e84cd57549a603b6407267
